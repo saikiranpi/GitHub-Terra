@@ -1,0 +1,1 @@
+environments = ["QA", "staging", "preprod"]
